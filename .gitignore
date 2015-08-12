@@ -15,3 +15,10 @@ project/plugins/project/
 # Scala-IDE specific
 .scala_dependencies
 .worksheet
+.idea/.name
+.idea/codeStyleSettings.xml
+.idea/compiler.xml
+.idea/copyright/profiles_settings.xml
+*.xml
+.idea/modules/scalatron_bot-build.iml
+*.iml
